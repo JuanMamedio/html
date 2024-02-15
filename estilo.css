@@ -1,0 +1,19 @@
+.nome1 {
+    color: rgb(2, 201, 12);
+}
+
+.barradepesquisa {
+    color: rgb(168, 168, 165);
+    font-size: 27px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.paragrafo {
+    line-height: 40px;
+}
+
+.titulosdeparagrafo {
+    font-size: 50px;
+    font-weight: 33;
+    color: rgba(32, 17, 23, 0.5);
+}
